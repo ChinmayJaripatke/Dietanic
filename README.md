@@ -30,7 +30,7 @@ We created features like **family size**, **age group**, **family group**, **far
 
 # Models Implemented:
 
-## We have implemented 6 Machine Learning models-
+## I have implemented 6 Machine Learning models-
 
 
 1. RandomForest
